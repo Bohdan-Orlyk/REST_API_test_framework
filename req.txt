@@ -1,0 +1,9 @@
+pytest
+pydantic
+requests
+Faker
+python-dotenv
+allure-pytest
+
+
+fastapi[standard]
